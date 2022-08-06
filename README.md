@@ -8,6 +8,6 @@
 ![Api](https://img.shields.io/badge/-Api-090909?style=for-the-badge&logo=)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ## Мои контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](@Alina_Diakova)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Alina_Diakova)
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Email)](nidoveralis@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)]
