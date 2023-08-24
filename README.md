@@ -16,4 +16,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ## Мои контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Alina_Diakova)
-![Email](https://img.shields.io/badge/-alinadyakov@gmail.com-090909?style=for-the-badge&logo=Email)(https://alinadyakov@gmail.com)
+[![Email](https://img.shields.io/badge/-alinadyakov@gmail.com-090909?style=for-the-badge&logo=Email)]
